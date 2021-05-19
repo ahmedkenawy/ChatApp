@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604534615873",
+    "project_id": "my-application-658cc",
+    "storage_bucket": "my-application-658cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604534615873:android:f28a4891f867f521bdbbc0",
+        "android_client_info": {
+          "package_name": "com.ahmedkenawy.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604534615873-5mfp7615eo2ncm4fd4cal122571nc9e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkHaFIzxENkktWQer9JUa08VO08RFrp2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604534615873-5mfp7615eo2ncm4fd4cal122571nc9e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
